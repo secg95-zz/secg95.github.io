@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Kikito
+first_name: Santiago
 middle_name: E.
-last_name: Cortés
+last_name: Cortés-Gómez
 email: secg95@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -51,7 +51,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: secg95
 gitlab_username: # your GitLab user name
-twitter_username: @sancortes_95
+twitter_username: #@sancortes_95
 linkedin_username: #Santiago Cortes
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
