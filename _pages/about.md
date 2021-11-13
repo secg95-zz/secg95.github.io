@@ -9,7 +9,6 @@ profile:
   image: DSC_0119.jpg
   address: >
     <p>secg95@gmail.com</p>
-    <p>Carrera 42 #5 Sur-145 - Piso 12</p>
     <p>Medellín, Colombia</p>
 
 news: true  # includes a list of news items
