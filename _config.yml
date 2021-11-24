@@ -102,7 +102,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: false
-    permalink: /projects/:path/
+    permalink: 
 
 news_limit: 5
 
