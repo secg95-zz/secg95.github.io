@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: Projects
+permalink: 
 description: 
 nav: true
 display_categories: []
