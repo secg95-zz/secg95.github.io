@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About_test
+title: About
 permalink: /
 description: Mathematician/ Machine learning engineer.
 
